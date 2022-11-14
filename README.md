@@ -25,7 +25,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Rogerio Silva Cordeiro](https://img.shields.io/badge/-Rogerio-Silva-Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rog%C3%A9rio-silva-cordeiro-354623198/)
+[![Linkedin: Rogerio Silva Cordeiro](https://img.shields.io/badge/-Rogerio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rog%C3%A9rio-silva-cordeiro-354623198/)
 ![Gmail Badge](https://img.shields.io/badge/-roger.silva28@outlook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:SEU-EMAIL)
 [![GitHub Roger Silva]( https://img.shields.io/github/followers/Rogerkazuya?label=follow&style=social)](https://github.com/Rogerkazuya)
 
